@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Add this step to checkout your repository
+        uses: actions/checkout@v3
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v2
