@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/H1B0B0/H1B0B0/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/loicBRAVO/loicBRAVO/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/loicBRAVO/count.svg?"  />
